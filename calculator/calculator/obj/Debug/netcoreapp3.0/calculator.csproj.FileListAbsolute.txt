@@ -1,0 +1,11 @@
+C:\Users\karin\codefellows\401\Prework-Calculator\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.csprojAssemblyReference.cache
+C:\Users\karin\codefellows\401\Prework-Calculator\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.AssemblyInfoInputs.cache
+C:\Users\karin\codefellows\401\Prework-Calculator\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.AssemblyInfo.cs
+C:\Users\karin\codefellows\401\Prework-Calculator\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.exe
+C:\Users\karin\codefellows\401\Prework-Calculator\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.deps.json
+C:\Users\karin\codefellows\401\Prework-Calculator\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.runtimeconfig.json
+C:\Users\karin\codefellows\401\Prework-Calculator\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.runtimeconfig.dev.json
+C:\Users\karin\codefellows\401\Prework-Calculator\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.dll
+C:\Users\karin\codefellows\401\Prework-Calculator\calculator\calculator\bin\Debug\netcoreapp3.0\calculator.pdb
+C:\Users\karin\codefellows\401\Prework-Calculator\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.dll
+C:\Users\karin\codefellows\401\Prework-Calculator\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.pdb
